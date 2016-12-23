@@ -1,2 +1,4 @@
 # hello-world
-Guide start
+
+Wats'up guys, how a u?
+Yeah boy!
